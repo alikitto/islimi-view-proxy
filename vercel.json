@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    { "src": "/api/track", "dest": "/api/track.js" }
-  ]
+  "version": 2
 }
